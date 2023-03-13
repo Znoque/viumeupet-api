@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ViumeupetApplication<viumeupet>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.znoque.viumeupet.ViumeupetApplication",
+            "projectName": "viumeupet",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
